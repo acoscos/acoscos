@@ -1,16 +1,16 @@
 = Anthony Cosson 🚀
 
-Formateur en ingénierie logicielle et développeur passionné 💻
+Ingénieur en apprentissage et passionné par le développement et l'ingénierie logicielle. 💻
 
 == À propos de moi 👨‍🏫
 
-Je suis un formateur indépendant spécialisé dans l'ingénierie logicielle, avec une solide expérience dans les technologies **Java**, **C#**, **Python**, **JavaScript** et bien d'autres.  
+Je suis spécialisé dans l'ingénierie logicielle, avec une solide expérience dans les technologies **Java**, **C#**, **Python**, **JavaScript** et bien d'autres.  
 Mon approche pédagogique repose sur des formations pratiques, dynamiques et accessibles, favorisant l'autonomie des apprenants. 🎯
 
 == Expériences 📚
 
 * 💼 **Formateur indépendant** depuis 2025  
-* 🎓 **Responsable de formation** chez O'clock (2022-2025)  
+* 🎓 **Responsable de formation** chez O'clock (2022-Auj)  
 * 🖋️ **Auteur** du livre _"Kotlin - Les fondamentaux du développement d'applications Android"_  
 * 👨‍💻 **Développeur et formateur** avec plus de 10 ans d'expérience en développement logiciel et gestion de projets  
 
